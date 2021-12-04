@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>/blog/</id>
+  <id>https://cecilapp.github.io/github-cms/blog/</id>
   <title>My blog - Blog</title>
   <subtitle><![CDATA[My amazing blog]]></subtitle>
-  <link href="/blog/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="/blog/" rel="alternate" type="text/html" />
+  <link href="https://cecilapp.github.io/github-cms/blog/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://cecilapp.github.io/github-cms/blog/" rel="alternate" type="text/html" />
   <updated>2021-12-04T01:29:38+01:00</updated>
   <author>
     <name>My blog</name>
-    <uri>/</uri>
+    <uri>https://cecilapp.github.io/github-cms/</uri>
   </author>
   <entry xml:lang="en">
-    <id>/blog/post-2/</id>
+    <id>https://cecilapp.github.io/github-cms/blog/post-2/</id>
     <title>Test 2</title>
     <content type="html">
-      <![CDATA[<p>bbbbbbbbb</p>]]>
+      <![CDATA[<p>bb</p>]]>
     </content>
-    <link href="/blog/post-2/" rel="alternate" type="text/html" />
+    <link href="https://cecilapp.github.io/github-cms/blog/post-2/" rel="alternate" type="text/html" />
     <published>2021-12-04T01:29:38+01:00</published>
     <updated>2021-12-04T01:29:38+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>/blog/post-1/</id>
+    <id>https://cecilapp.github.io/github-cms/blog/post-1/</id>
     <title>Test</title>
     <content type="html">
       <![CDATA[<p>This is as test.</p>]]>
     </content>
-    <link href="/blog/post-1/" rel="alternate" type="text/html" />
+    <link href="https://cecilapp.github.io/github-cms/blog/post-1/" rel="alternate" type="text/html" />
     <published>2021-12-04T01:21:30+01:00</published>
     <updated>2021-12-04T01:21:30+01:00</updated>
   </entry>
