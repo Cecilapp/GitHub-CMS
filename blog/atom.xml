@@ -11,16 +11,6 @@
     <uri>http://localhost:8000/</uri>
   </author>
   <entry xml:lang="en">
-    <id>http://localhost:8000/blog/2/</id>
-    <title>Test 2</title>
-    <content type="html">
-      <![CDATA[<p>qsdqsd</p>]]>
-    </content>
-    <link href="http://localhost:8000/blog/2/" rel="alternate" type="text/html" />
-    <published>2021-12-04T01:29:38+01:00</published>
-    <updated>2021-12-04T01:29:38+01:00</updated>
-  </entry>
-  <entry xml:lang="en">
     <id>http://localhost:8000/blog/post-2/</id>
     <title>Test 2</title>
     <content type="html">
@@ -31,13 +21,12 @@
     <updated>2021-12-04T01:29:38+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>http://localhost:8000/blog/1/</id>
+    <id>http://localhost:8000/blog/post-1/</id>
     <title>Test</title>
     <content type="html">
-      <![CDATA[<p>This is as test.</p>
-<p>test</p>]]>
+      <![CDATA[<p>This is as test.</p>]]>
     </content>
-    <link href="http://localhost:8000/blog/1/" rel="alternate" type="text/html" />
+    <link href="http://localhost:8000/blog/post-1/" rel="alternate" type="text/html" />
     <published>2021-12-04T01:21:30+01:00</published>
     <updated>2021-12-04T01:21:30+01:00</updated>
   </entry>
