@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://cecilapp.github.io/github-cms/</id>
-  <title>My blog</title>
+  <id>https://cecilapp.github.io/github-cms/blog/</id>
+  <title>My blog - Blog</title>
   <subtitle><![CDATA[My amazing blog]]></subtitle>
-  <link href="https://cecilapp.github.io/github-cms/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="https://cecilapp.github.io/github-cms/" rel="alternate" type="text/html" />
+  <link href="https://cecilapp.github.io/github-cms/blog/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://cecilapp.github.io/github-cms/blog/" rel="alternate" type="text/html" />
   <updated>2021-12-05T00:24:12+01:00</updated>
   <author>
     <name>My blog</name>
@@ -19,25 +19,5 @@
     <link href="https://cecilapp.github.io/github-cms/blog/post-6/" rel="alternate" type="text/html" />
     <published>2021-12-05T00:24:12+01:00</published>
     <updated>2021-12-05T00:24:12+01:00</updated>
-  </entry>
-  <entry xml:lang="en">
-    <id>https://cecilapp.github.io/github-cms/drafts/post-5/</id>
-    <title>Test 5</title>
-    <content type="html">
-      <![CDATA[<p>dqsdqsdqsd</p>]]>
-    </content>
-    <link href="https://cecilapp.github.io/github-cms/drafts/post-5/" rel="alternate" type="text/html" />
-    <published>2021-12-04T23:46:20+01:00</published>
-    <updated>2021-12-04T23:46:20+01:00</updated>
-  </entry>
-  <entry xml:lang="en">
-    <id>https://cecilapp.github.io/github-cms/drafts/post-4/</id>
-    <title>Test 4</title>
-    <content type="html">
-      <![CDATA[<p>qsdq sdqs d</p>]]>
-    </content>
-    <link href="https://cecilapp.github.io/github-cms/drafts/post-4/" rel="alternate" type="text/html" />
-    <published>2021-12-04T18:52:14+01:00</published>
-    <updated>2021-12-04T18:52:14+01:00</updated>
   </entry>
 </feed>
