@@ -21,6 +21,16 @@
     <updated>2021-12-04T01:29:38+01:00</updated>
   </entry>
   <entry xml:lang="en">
+    <id>http://localhost:8000/blog/post-2/</id>
+    <title>Test 2</title>
+    <content type="html">
+      <![CDATA[<p>aaaaaa</p>]]>
+    </content>
+    <link href="http://localhost:8000/blog/post-2/" rel="alternate" type="text/html" />
+    <published>2021-12-04T01:29:38+01:00</published>
+    <updated>2021-12-04T01:29:38+01:00</updated>
+  </entry>
+  <entry xml:lang="en">
     <id>http://localhost:8000/blog/1/</id>
     <title>Test</title>
     <content type="html">
