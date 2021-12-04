@@ -5,11 +5,21 @@
   <subtitle><![CDATA[My amazing blog]]></subtitle>
   <link href="https://cecilapp.github.io/github-cms/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://cecilapp.github.io/github-cms/" rel="alternate" type="text/html" />
-  <updated>2021-12-04T01:29:38+01:00</updated>
+  <updated>2021-12-04T16:41:13+01:00</updated>
   <author>
     <name>My blog</name>
     <uri>https://cecilapp.github.io/github-cms/</uri>
   </author>
+  <entry xml:lang="en">
+    <id>https://cecilapp.github.io/github-cms/blog/post-3/</id>
+    <title>Test 3</title>
+    <content type="html">
+      <![CDATA[<p>Pouet</p>]]>
+    </content>
+    <link href="https://cecilapp.github.io/github-cms/blog/post-3/" rel="alternate" type="text/html" />
+    <published>2021-12-04T16:41:13+01:00</published>
+    <updated>2021-12-04T16:41:13+01:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/github-cms/blog/post-2/</id>
     <title>Test 2</title>
