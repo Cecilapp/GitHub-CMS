@@ -5,11 +5,21 @@
   <subtitle><![CDATA[Use GitHub Issues as a CMS for a Cecil blog.]]></subtitle>
   <link href="https://cecilapp.github.io/GitHub-CMS/blog/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://cecilapp.github.io/GitHub-CMS/blog/" rel="alternate" type="text/html" />
-  <updated>2021-12-05T01:41:35+01:00</updated>
+  <updated>2021-12-05T01:57:20+01:00</updated>
   <author>
     <name>GitHub-CMS demo</name>
     <uri>https://cecilapp.github.io/GitHub-CMS/</uri>
   </author>
+  <entry xml:lang="en">
+    <id>https://cecilapp.github.io/GitHub-CMS/blog/post-8/</id>
+    <title>Test Ter</title>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]>
+    </content>
+    <link href="https://cecilapp.github.io/GitHub-CMS/blog/post-8/" rel="alternate" type="text/html" />
+    <published>2021-12-05T01:57:20+01:00</published>
+    <updated>2021-12-05T01:57:20+01:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/GitHub-CMS/blog/post-7/</id>
     <title>Test bis</title>
